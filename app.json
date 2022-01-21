@@ -1,7 +1,7 @@
 {
-    "name": "Vay-Xay-Lss20220121",
+    "name": "Xay-Lss20220121",
     "description": "Deploy LSS and Trojan on Heroku.",
-    "keywords": ["Vay-Xay-Lss20220121"],
+    "keywords": ["Xay-Lss20220121"],
     "env": {
         "ID": {
             "description": "VLESS ID, use uuid generator",
