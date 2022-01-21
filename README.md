@@ -10,7 +10,7 @@
 
 |**注意事项**|
 |**滥用可能导致账户被删除！！！**|
-[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https://github.com/Cptmacmillan2022007/IX-RXVK.git)
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https://github.com/WizaNoemie/Xay-Lss20220121)
 
 # Xray VLESS
 |**属性**|**值**|
